@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 亭轩阁-紫阳
 
-You can use the [editor on GitHub](https://github.com/TXG-PurpleSun/yunyu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作为一个一直处于自学状态的小白，突然想写一写博客还是挺需要勇气的。也算是对之前一段日子的沉淀，回首回首往事，再展望展望将来。先随意写一点有的没的东西，之后在慢慢正规化吧。
 
 ### Markdown
 
